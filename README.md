@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bgwcky
 - 👀 I’m interested in writing, design, building websites, and interactive media experiences
-- 🌱 I’m currently learning Javascript and C#
+- 🌱 I’m currently learning Ruby and XML
 - 💞️ I’m looking to collaborate on anything that sounds interesting
 - 📫 How to reach me: email me @ bryangewick@gmail.com
 
